@@ -1,1 +1,2 @@
 HackTheBox_Dab.pdf	45cd53a83bf364456386816e35e6a98e
+HackTheBox_Giddy.pdf	cf559c6c121f683bf3e56891e80641b1
